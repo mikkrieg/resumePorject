@@ -1,0 +1,47 @@
+h1 {
+  color: #efefef;
+}
+
+h2 {
+  color: #f6f6f6;
+}
+
+body {
+  background-color: rgb(233, 198, 21);
+}
+p {
+  Color: rgba(231, 15, 231, 0.4)
+}
+li {
+  color: rgba(231, 15, 231, 0.4);
+}
+
+.info {
+  font-family: monospace;
+}
+
+.edu {
+  font-family: monospace;
+}
+
+.exp {
+  font-family: monospace;
+}
+
+.qual {
+  font-family: monospace;
+
+}
+
+.ref {
+  font-family: monospace;
+}
+
+.bold {
+  color:green;
+}
+
+.ital {
+  color:red;
+  font-style: italic;
+}
