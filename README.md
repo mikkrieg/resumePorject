@@ -12,7 +12,7 @@
 ## Description
 
 _This mock resume page was practice for using div classes and span classes. We worked with different classes and styling to present a rough mock resume 
-of a Mcdonalds worker names John Kinkle. _
+of a Mcdonalds worker names John Kinkle._
 
 ## Setup/Installation Requirements
 
